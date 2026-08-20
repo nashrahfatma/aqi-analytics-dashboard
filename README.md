@@ -4,7 +4,7 @@ End-to-end data analytics project analyzing air pollution across 10 major Indian
 cities — SQL data cleaning and analysis (window functions, seasonal comparison),
 and a live interactive dashboard.
 
-**🔗 Live dashboard:** `https://<your-github-username>.github.io/<repo-name>/`
+**🔗 Live dashboard:** `https://aqi-analytics-dashboard.github.io/<repo-name>/`
 *(enable in Settings → Pages → deploy from `main` branch → root)*
 
 > **Note on data:** This project uses a synthetically generated daily AQI dataset
